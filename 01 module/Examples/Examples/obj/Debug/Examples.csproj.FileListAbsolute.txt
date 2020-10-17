@@ -1,0 +1,5 @@
+/Users/mgordenko/Projects/Examples/Examples/bin/Debug/Examples.exe
+/Users/mgordenko/Projects/Examples/Examples/bin/Debug/Examples.pdb
+/Users/mgordenko/Projects/Examples/Examples/obj/Debug/Examples.csprojAssemblyReference.cache
+/Users/mgordenko/Projects/Examples/Examples/obj/Debug/Examples.exe
+/Users/mgordenko/Projects/Examples/Examples/obj/Debug/Examples.pdb
